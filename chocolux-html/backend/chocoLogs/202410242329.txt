@@ -1,0 +1,5 @@
+2024-10-24 23:29:47|Golden Hazelnut Bliss|4|7.0|buy|chocolate
+2024-10-24 23:29:49|Velvet Cocoa Delight|3|5.0|buy|chocolate
+2024-10-24 23:29:52|Raspberry Noir Temptation|8|8.0|buy|chocolate
+2024-10-24 23:29:53|Velvet Cocoa Delight|3|5.0|buy|chocolate
+2024-10-24 23:29:55|Golden Hazelnut Bliss|4|7.0|buy|chocolate

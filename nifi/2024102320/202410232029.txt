@@ -1,0 +1,4 @@
+2024-10-23 20:29:00|Mystic Dark Indulgence|5|10.0|buy|chocolate
+2024-10-23 20:29:02|Velvet Cocoa Delight|3|5.0|buy|chocolate
+2024-10-23 20:29:04|Golden Hazelnut Bliss|4|7.0|buy|chocolate
+2024-10-23 20:29:07|Mystic Dark Indulgence|5|10.0|buy|chocolate
